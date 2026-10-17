@@ -2,7 +2,7 @@
 
 ### Full Stack Web Developer
 
-I'm a developer focused on building responsive websites and web applications.
+I'm a web developer focused on creating useful websites and improving my development skills through real projects.
 
 - 💻 Skills: HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, MongoDB, PHP and MySQL.
 - 🛒 Working on FreshKart, a grocery e-commerce project.
@@ -12,4 +12,4 @@ I'm a developer focused on building responsive websites and web applications.
 - 🧑‍💻 GitHub: https://github.com/vipinmaurya-dev
 
 ### Tech Stack
-HTML | CSS | JavaScript | React.js | Bootstrap | Node.js | Express.js | MongoDB | PHP | MySQL
+HTML5 | CSS3 | JavaScript | React.js | Bootstrap | Node.js | Express.js | MongoDB | PHP | MySQL
